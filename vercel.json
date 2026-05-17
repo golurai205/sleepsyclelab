@@ -1,3 +1,4 @@
+vercel.json
 {
   "framework": "vite",
   "installCommand": "npm install",
@@ -10,4 +11,5 @@
     }
   ]
 }
-
+.nvmrc
+22
